@@ -1,0 +1,122 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .container{
+
+} */
+
+
+
+.container1{
+  text-align: left;
+  margin-left: 2em;
+}
+
+.botones{
+  text-align: left;
+}
+
+
+
+.header11{
+  margin-top: 5em;
+  margin-right: 5em;
+  
+
+}
+
+.header1{
+  margin-bottom: 2em;
+}
+.header2{
+  margin-bottom: 2em;
+}
+
+.botones{
+  margin: 0;
+  margin-right: 5em;
+  padding: 0;
+  
+
+}
+
+.boton1{
+  margin-bottom: 1em;
+}
+
+.boton2{
+  margin-bottom: 1em;
+}
+
+.boton3{
+  margin-bottom: 1em;
+}
+
+.codigos{
+
+  margin: 0;
+  margin-top: -15em;
+  padding: 0;
+  text-align: right;
+  
+
+
+
+
+}
+
+.icono1{
+  text-align: center;
+ 
+}
+
+.codigo1{
+  text-align: center;
+  margin-bottom: 4em;
+  
+}
+
+.icono2{
+  text-align: center;
+}
+
+.codigo2{
+  text-align: center;
+  margin-bottom: 4em;
+}
+
+.icono3{
+  text-align: center;
+}
+
+.codigo3{
+  text-align: center;
+  margin-bottom: 4em;
+}
+
+.icono4{
+  text-align: center;
+}
+
+.codigo4{
+  text-align: center;
+  margin-bottom: 4em;
+
+}
+
+.icono5{
+  text-align: center;
+}
+
+.codigo5{
+  text-align: center;
+  margin-bottom: 4em;
+}
+
+
+
+
+
